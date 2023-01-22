@@ -5,7 +5,7 @@ header:
   image: /assets/img/VUMC_bldg.jpeg 
   teaser: /assets/img/pualogo.jpeg
 gallery:
-  - url: /assets/img/SU_22_FinalPoster_GabriellaFaircloth.pdf
+  - image: /assets/img/SU_22_FinalPoster_GabriellaFaircloth.pdf
 
 ---
 

@@ -12,7 +12,7 @@ title: "About Gabriella Faircloth"
 
 ## Technical Skills
 
-Gabriella cannot do anything!
+Gabriella can't do anything!
 
 
 <img src="/assets/img/headshot.jpg" alt="Gabriella Faircloth" style="width:200px;"/>

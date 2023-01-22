@@ -21,4 +21,4 @@ David can operate a number of different computer controlled (CNC) fabrication to
 * Bioplotting
 
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+<img src="/assets/img/headshot.jpg" alt="Gabriella Faircloth" style="width:200px;"/>

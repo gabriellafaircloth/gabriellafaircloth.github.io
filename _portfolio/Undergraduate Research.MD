@@ -19,7 +19,7 @@ I have been conducting research in the Pua lab since May 2022. My work has focus
 
 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="This is a my summer poster/SyBBURE Logo." %}
 
 
 

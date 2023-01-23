@@ -9,6 +9,7 @@ gallery:
   - url: /assets/img/Faircloth_Gabriella_2022_08 copy.jpg
     image_path: /assets/img/Faircloth_Gabriella_2022_08 copy.jpg
     alt: "Final Poster"  
+    
   - url: /assets/img/docoolstuff_multi_transparent.png
     image_path: /assets/img/docoolstuff_multi_transparent.png
     alt: "SyBBURE Logo"   

@@ -17,8 +17,7 @@ The Girl Scouts of Middle Tennessee currently have a dataset that was designed m
 
 (More info / link to the dashboard coming soon!)
  
-
-
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 
 

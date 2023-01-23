@@ -10,12 +10,12 @@ header:
       url: "/portfolio/"
 excerpt: "Gabriella Faircloth is an undergraduate chemical engineering student with an interest in perusing biotech/pharmaceuticals."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
+  - image_path: /assets/img/Screen Shot 2023-01-22 at 10.33.00 PM.JPEG
+    alt: "Birds eye "
+    title: "Object Detection Device"
+    excerpt: "Built using a Nvidida Jetson Nano to find lost items."
+  - image_path: /assets/img/IMG_3643.jpg
+    alt: "jetson software"
     title: "DIY Plasma Cutter"
     excerpt: "A hot plasma stream slices through sheet metal."
   - image_path: assets/img/Zidex-Thumbnail.jpg

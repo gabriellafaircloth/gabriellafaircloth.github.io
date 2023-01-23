@@ -2,7 +2,7 @@
 title: "Vandy Data Science"
 excerpt: "Project Girl Scouts"
 header:
-  image: /assets/img/download.png
+  image: /assets/img/cropped-GS_MiddleTennessee_Servicemark_RGB_BlackGreen-e1617742188454.png
   teaser: /assets/img/vandyds.png
    
 gallery:

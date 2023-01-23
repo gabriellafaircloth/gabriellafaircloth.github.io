@@ -18,7 +18,7 @@ feature_row:
     alt: "jetson software"
     title: "Object Detection Software"
     excerpt: "A demonstration of the object detection software."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
+  - image_path: /assets/img/IMG_3641.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
 ---

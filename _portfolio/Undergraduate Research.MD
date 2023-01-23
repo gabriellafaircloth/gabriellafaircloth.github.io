@@ -1,6 +1,6 @@
 ---
-title: "Undergraduate Research: Pua Lab"
-excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a range of over 50 miles!"
+title: "Undergraduate Research"
+excerpt: "Pua Lab / SyBBURE"
 header:
   image: /assets/img/VUMC_bldg.jpeg 
   teaser: /assets/img/pualogo.jpeg

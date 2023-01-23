@@ -12,7 +12,6 @@ gallery:
   - url: /assets/img/free-dashboard-templates-1.webp
     image_path: /assets/img/free-dashboard-templates-1.webp
     alt: "dashboard placeholder"
-
 ---
 
 The Girl Scouts of Middle Tennessee currently have a dataset that was designed many years ago, but it does not display any statistics. This makes it hard for the Girl Scouts to back up their grant claims with data and incentivize donors. Without demographic data, they are unable to have cost-efficient targeted marketing. They do not know where to direct their marketing in order to gain new members who might belong to underserved communities. Vandy Data Science will solve their grant and marketing problem by creating a live digital dashboard that will be accessible and efficient. It will give them a clear display of their membership demographics. The dashboard will also provide statistics as to whether they over or underserve a community, in turn, allowing them to expand their membership by  redirecting their marketing!

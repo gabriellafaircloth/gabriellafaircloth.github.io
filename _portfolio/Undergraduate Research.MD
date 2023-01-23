@@ -4,9 +4,12 @@ excerpt: "This custom electric vehicle can reach speeds of up 30 MPH and has a r
 header:
   image: /assets/img/VUMC_bldg.jpeg 
   teaser: /assets/img/pualogo.jpeg
+   
 gallery:
-  - image: /assets/img/Faircloth_Gabriella_2022_08 copy.jpg
-
+  - url: /assets/img/Faircloth_Gabriella_2022_08 copy.jpg
+    image_path: /assets/img/Faircloth_Gabriella_2022_08 copy.jpg
+    alt: "Final Poster"  
+  
 ---
 
 Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.

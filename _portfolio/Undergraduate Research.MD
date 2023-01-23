@@ -12,6 +12,17 @@ gallery:
   
 ---
 
-Up until recently I rode a Gotrax E-Scooter to work every day. The scooter retailed for $300, but it quickly paid for itself after I was able to forgo gas and a parking spot at work. However, after about a year and a half of driving the scooter daily the battery started to lose charge quickly and there were a couple other mechanical issues that forced me to stop riding the scooter. Instead of purchasing a new scooter, I decided to go the DIY route to build a one-off scooter that fits my needs.
+I have been conducting research in the Pua lab since May 2022. My work has focused on the how house dust mite affects human bronchial epithelial cells; however, I am currently in the process of transitioning projects.
 
 {% include gallery caption="This is my Summer 2022 final poster presentation." %}
+
+
+The SyBBURE Seale Undergraduate Research Program has sponsered and mentored me throughout my time in the lab.
+
+
+gallery:
+  - url: /assets/img/docoolstuff_multi_transparent.png
+    image_path: /assets/img/docoolstuff_multi_transparent.png
+    alt: "SyBBURE Logo"
+    
+{% include gallery caption="SyBBURE Logo" %}

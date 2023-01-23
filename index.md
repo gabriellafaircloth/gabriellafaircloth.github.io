@@ -16,8 +16,8 @@ feature_row:
     excerpt: "Built using a Nvidida Jetson Nano to find lost items."
   - image_path: /assets/img/IMG_3643.jpg
     alt: "jetson software"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    title: "Object Detection Software"
+    excerpt: "A demonstration of the object detection software."
   - image_path: assets/img/Zidex-Thumbnail.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "

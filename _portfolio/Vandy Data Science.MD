@@ -1,6 +1,6 @@
 ---
 title: "Vandy Data Science"
-excerpt: "Project Girl Scouts"
+excerpt: "Project Girl Scouts" 
 header:https://github.com/gabriellajfaircloth/gabriellajfaircloth.github.io/blob/main/_portfolio/Vandy%20Data%20Science
   image: /assets/img/download.png
   teaser: /assets/img/vandyds.png

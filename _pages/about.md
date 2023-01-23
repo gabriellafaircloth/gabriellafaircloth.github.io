@@ -7,7 +7,7 @@ title: "About Gabriella Faircloth"
 ## Education 
 
 * Vanderbilt University
-  * B.E. Chemical Engineering
+  * B.E. Chemical Engineering (Class of 2025)
   * Minors in Chemistry & Data Science
 
 ## Technical Skills

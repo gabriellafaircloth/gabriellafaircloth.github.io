@@ -19,10 +19,8 @@ I have been conducting research in the Pua lab since May 2022. My work has focus
 
 The SyBBURE Seale Undergraduate Research Program has sponsered and mentored me throughout my time in the lab.
 
-
-gallery:
-  - url: /assets/img/docoolstuff_multi_transparent.png
-    image_path: /assets/img/docoolstuff_multi_transparent.png
+url: /assets/img/docoolstuff_multi_transparent.png
+image_path: /assets/img/docoolstuff_multi_transparent.png
     alt: "SyBBURE Logo"
     
 {% include gallery caption="SyBBURE Logo" %}

@@ -1,5 +1,5 @@
 ---
-title: "Gabriella Faircloth"
+title: "Alec Cheng"
 layout: splash
 header:
   overlay_color: "#000"
@@ -11,16 +11,16 @@ header:
 excerpt: "Gabriella Faircloth is an undergraduate chemical engineering student with an interest in perusing biotech/pharmaceuticals."
 feature_row:
   - image_path: /assets/img/Screen Shot 2023-01-22 at 10.33.00 PM.JPEG
-    alt: "Birds eye "
-    title: "Object Detection Device"
-    excerpt: "Built to find lost items."
+    alt: "Project"
+    title: "Title"
+    excerpt: "Exerpt"
   - image_path: /assets/img/IMG_3643.jpg
     alt: "jetson software"
     title: "Object Detection Software"
     excerpt: "A demonstration of the object detection software."
   - image_path: /assets/img/IMG_3641.jpg
-    title: "Jetson Setup"
-    excerpt: "The hardware for the project. "
+    title: "Title"
+    excerpt: "Exerpt"
 ---
 
 {% include feature_row %}

@@ -7,7 +7,7 @@ title: "About Alec Cheng"
 ## Education 
 
 * Vanderbilt University
-  * B.A. idk (Class of 2025)
+  * B.A. idk (Class of )
   * Minors idk
   * 
 ## Technical Skills

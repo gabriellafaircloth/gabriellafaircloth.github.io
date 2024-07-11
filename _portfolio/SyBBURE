@@ -1,1 +1,23 @@
+---
+title: "The SyBBURE Searle Undergraduate Research Program"
+excerpt: "Vix Projects and More"
+header:
+  image: 
+  teaser: 
+  
+gallery:
+  - url: /assets/img/Faircloth_Gabriella_2022_08 copy.jpg
+    image_path: /assets/img/Faircloth_Gabriella_2022_08 copy.jpg
+    alt: "Poster"
+  - url: /assets/img/docoolstuff_multi_transparent.png
+    image_path: /assets/img/docoolstuff_multi_transparent.png
+    alt: "SyBBURE Logo"
+
+---
+
+The SyBBURE Searle Undergraduate Research Program is 
+
+
+
+{% include gallery caption="This is a my summer poster/SyBBURE Logo." %}
 

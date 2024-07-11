@@ -108,9 +108,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/gabriellafaircloth"
+      url: "https://www.linkedin.com/in/gabriellafaircloth"
 
 
 

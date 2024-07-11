@@ -1,10 +1,9 @@
 # main links
 main:
-  - title: "Portfolio"
-    url: /portfolio/
   - title: "About"
     url: /_pages/about
-    main:
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Experience"
     url: /experience/
   # - title: "Sample Posts"

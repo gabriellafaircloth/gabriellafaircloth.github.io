@@ -2,7 +2,7 @@
 title: Experience
 layout: collection
 permalink: /experience/
-collection: portfolio
+collection: experience
 entries_layout: grid
 classes: wide
 ---

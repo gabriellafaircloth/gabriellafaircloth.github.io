@@ -101,9 +101,9 @@ author:
   bio              : "Gabriella is a senior chemical engineering student at Vanderbilt University with minors in Chemistry and Data Science."
   location         : "Nashville, TN"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/gabriellajfaircloth"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/gabriellafaircloth"
 
 # Site Footer
 footer:

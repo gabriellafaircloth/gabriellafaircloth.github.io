@@ -6,6 +6,3 @@ collection: experience
 entries_layout: grid
 classes: wide
 ---
-
-My Experience:
-

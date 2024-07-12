@@ -175,6 +175,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+collections:
+  experience:
+    output: true
+
 
 # Defaults
 defaults:
@@ -212,6 +216,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+      
 
 
 # Sass/SCSS

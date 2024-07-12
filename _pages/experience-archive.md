@@ -1,7 +1,7 @@
 ---
 title: Experience
 layout: collection
-permalink: /experience/
+permalink: gabriellafaircloth/experience
 collection: experience
 entries_layout: grid
 classes: wide

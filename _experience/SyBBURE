@@ -1,1 +1,20 @@
+---
+title: "The SyBBURE Searle Undergraduate Research Program"
+excerpt: "Vix Projects and More"
+header:
+  image: 
+  teaser: assets/img/docoolstuff_multi_transparent.png
+  
+gallery:
+  - url: 
+    image_path: 
+    alt: 
 
+
+---
+
+The SyBBURE Searle Undergraduate Research Program is a research and design plaground. The program funds undergraduate students at Vanderbilt University to explore any aspect of STEM that interests them through independent research and team-based design projects. The program provides individualized mentorship and training to promote student personal and professional development within an extraordinary and inclusive community.
+
+
+
+{% include gallery caption="This is a my summer poster/SyBBURE Logo." %}

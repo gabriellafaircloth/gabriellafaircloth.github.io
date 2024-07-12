@@ -13,7 +13,7 @@ title: "About Gabriella Faircloth"
 ## Experience
   * Process Engineering Intern at Celanese, Narrows VA (Summer 2024)
   * Undergraduate Researcher in the Pua Lab, Nashville TN (2021-2023)
-  * Undergraduate Researcher in the Young /Lippmann Labs, Nashville TN (2023-Present)
+  * Undergraduate Researcher in the Young / Lippmann Labs, Nashville TN (2023-Present)
     
 ## Technical Skills
 

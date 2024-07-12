@@ -170,14 +170,17 @@ kramdown:
 
 
 # Collections
+#_portfolio
 collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
+#_experience
 collections:
   experience:
     output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults

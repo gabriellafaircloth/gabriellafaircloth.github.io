@@ -24,6 +24,16 @@ title: "About Gabriella Faircloth"
   * Fusion 360
   * Aspen Plus
 
+## Laboratory Skills
+
+ * Mammilian cell culture
+ * PCR
+ * RNA extraction
+ * RT-qPCR
+ * Particle counting on Zetaview
+ * EV purification via SEC and ultracentrifugation
+ * Hydrogel synthesis
+
  
 
 

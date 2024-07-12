@@ -175,7 +175,7 @@ collections:
     permalink: /:collection/:path/
   experience:
     output: true
-    permalink:
+    permalink: /:collection/:path/
 
 
 

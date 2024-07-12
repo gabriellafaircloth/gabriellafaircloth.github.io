@@ -1,6 +1,6 @@
 ---
-title: "Undergraduate Research"
-excerpt: "Pua Lab / SyBBURE"
+title: "Extracellular Communication"
+excerpt: ""
 header:
   image: /assets/img/VUMC_bldg.jpeg 
   teaser: /assets/img/pualogo.jpeg
@@ -14,12 +14,6 @@ gallery:
     alt: "SyBBURE Logo"
 
 ---
-
-I have been conducting research in the Pua lab since May 2022. My work has focused on the how house dust mite affects human bronchial epithelial cells; however, I am currently in the process of transitioning projects. The SyBBURE Seale Undergraduate Research Program has sponsered and mentored me throughout my time in the lab.
-
-
-
-{% include gallery caption="This is a my summer poster/SyBBURE Logo." %}
 
 
 

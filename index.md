@@ -8,4 +8,4 @@ header:
       url: "/portfolio/"
 ---
 
-{% include feature_row %}
+

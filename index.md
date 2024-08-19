@@ -8,6 +8,9 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
+      
+{%
+
 excerpt: "Gabriella Faircloth is an undergraduate chemical engineering student with an interest in perusing biotech/pharmaceuticals."
 feature_row:
   - image_path: /assets/img/Screen Shot 2023-01-22 at 10.33.00 PM.JPEG
@@ -22,6 +25,8 @@ feature_row:
     title: "Title"
     excerpt: "Exerpt"
 ---
+
+%}
 
 {% include feature_row %}
 
